@@ -34,7 +34,8 @@
       "SectionProperties\\US_SteelSections\\MT": "Structure\\SectionProperties\\US_SteelSections\\MT",
       "SectionProperties\\US_SteelSections\\PIPE": "Structure\\SectionProperties\\US_SteelSections\\PIPE",
       "SectionProperties\\US_SteelSections\\W": "Structure\\SectionProperties\\US_SteelSections\\W",
-      "SectionProperties\\US_SteelSections\\WT": "Structure\\SectionProperties\\US_SteelSections\\WT"
+      "SectionProperties\\US_SteelSections\\WT": "Structure\\SectionProperties\\US_SteelSections\\WT",
+      "Gradients\\Gradients": "Graphics\\Gradients\\Gradients"
     },
     "ToOld": {
       "Structure\\Materials\\MaterialsEurope\\Concrete": "Materials\\MaterialsEurope\\Concrete",
@@ -70,7 +71,8 @@
       "Structure\\SectionProperties\\US_SteelSections\\MT": "SectionProperties\\US_SteelSections\\MT",
       "Structure\\SectionProperties\\US_SteelSections\\PIPE": "SectionProperties\\US_SteelSections\\PIPE",
       "Structure\\SectionProperties\\US_SteelSections\\W": "SectionProperties\\US_SteelSections\\W",
-      "Structure\\SectionProperties\\US_SteelSections\\WT": "SectionProperties\\US_SteelSections\\WT"
+      "Structure\\SectionProperties\\US_SteelSections\\WT": "SectionProperties\\US_SteelSections\\WT",
+      "Graphics\\Gradients\\Gradients": "Gradients\\Gradients"
     }
   }
 }
